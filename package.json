@@ -1,0 +1,39 @@
+{
+  "name": "my-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "@tiptap/react": "^3.9.0",
+    "@tiptap/starter-kit": "^3.9.0",
+    "firebase": "^12.4.0",
+    "framer-motion": "^12.23.24",
+    "html-react-parser": "^5.2.7",
+    "lucide-react": "^0.548.0",
+    "next": "16.0.0",
+    "quill": "^2.0.2",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-quill": "^2.0.0",
+    "react-quill-new": "^3.6.0",
+    "recharts": "^3.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.16",
+    "typescript": "^5"
+  }
+}
